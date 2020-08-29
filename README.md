@@ -1,6 +1,6 @@
 
   # Project name:
-  T's dynamic Readme
+  T's dynamic readme file
 
   # Applucation:
   This is a readme file
@@ -19,10 +19,10 @@
   * Imgs
 
   # Installation:
-  Node modules, JSON package and inquirer package
+  Node modules, JSON package and Inquirer package
 
   # Usage:
-    This makes everything very easy to use and all you need to do is type up the answers in the command line for it to appear in the readme
+  You use this application in the command line
 
 
  ![license](https://img.shields.io/badge/license-MIT-blue.svg)
@@ -31,9 +31,9 @@
   Teresa Heidt
 
   # Tests:
-  No tests were run
+  No tests at this time
 
   # Questions:
-  Teresa heidt [guthub profile](https://github.com/teresaheidt)
+  Please contact me: Teresa Heidt [Github](https://github.com/teresaheidt/readme.git)
 
   
