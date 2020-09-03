@@ -20,7 +20,7 @@ const questions = [
 
     {
         type: "list",
-        message: "contents",
+        message: "Table if Contents",
         name: "contents",
         choices: [
             "Title",
