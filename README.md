@@ -1,9 +1,9 @@
 
   # Project name:
-  T's dynamic readme.md
+  T's dynamic readme file.
 
   # Application:
-  This is a dynamic readme file generated from the console.
+  This is a dynamic readme generated on the console
 
   # Table of Contents:
   * [Project name](https://github.com/teresaheidt/readme-Title-project-name)
@@ -18,10 +18,10 @@
   * [Images](https://github.com/teresaheidt/readme-Title-images)
 
   # Installation:
-  Node Modules, JSON and Inquirer packages.
+  Node Modules, JSON and Inquirer packages
 
   # Usage:
-  Using the command line, answer the questions when prompted and the readme is generated.
+  Using the console answer the questions when prompted and the readme will be generated.
 
   # License:
  ![license](https://img.shields.io/badge/license-MIT-blue.svg)
@@ -30,12 +30,12 @@
   Teresa Heidt
 
   # Tests:
-  No tests at this time.
+  None at this time.
 
   # Questions:
-  [Github](https://github.com/teresaheidt)
+  Teresa Heidt [Github](https://github.com/teresaheidt)
 
   # Images:
-  ![screenshot](screenshot.png)
+  ![screenshot](assets/screenshot.png)
 
   
