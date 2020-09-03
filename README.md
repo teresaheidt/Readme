@@ -3,7 +3,7 @@
   T's dynamic readme file.
 
   # Application:
-  This is a dynamic readme generated on the console
+  This is an application that runs in the command line.
 
   # Table of Contents:
   * [Project name](https://github.com/teresaheidt/readme-Title-project-name)
@@ -18,10 +18,10 @@
   * [Images](https://github.com/teresaheidt/readme-Title-images)
 
   # Installation:
-  Node Modules, JSON and Inquirer packages
+  Node Modules, JSON and Inquirer packages.
 
   # Usage:
-  Using the console answer the questions when prompted and the readme will be generated.
+  In the command line answer the questions when prompted and the readme will be generated.
 
   # License:
  ![license](https://img.shields.io/badge/license-MIT-blue.svg)
@@ -33,7 +33,7 @@
   None at this time.
 
   # Questions:
-  Teresa Heidt [Github](https://github.com/teresaheidt)
+  Contact Teresa Heidt: [Github](https://github.com/teresaheidt)
 
   # Images:
   ![screenshot](assets/screenshot.png)
