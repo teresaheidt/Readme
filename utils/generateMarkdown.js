@@ -8,16 +8,6 @@ function generateMarkdown(data) {
 
   # Table of Contents:
   ${data.contents}
-  * Title
-  * Description
-  * Table of contents
-  * Installation
-  * Usage
-  * License
-  * Contributing
-  * Tests
-  * Questions
-  * Images
 
   # Installation:
   ${data.installation}
