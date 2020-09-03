@@ -1,9 +1,9 @@
 
   # Project name:
-  readme
+  T's dynamic readme.md
 
   # Application:
-  Thewfwef
+  This is a dynamic readme file generated from the console.
 
   # Table of Contents:
   * [Project name](https://github.com/teresaheidt/readme-Title-project-name)
@@ -18,24 +18,24 @@
   * [Images](https://github.com/teresaheidt/readme-Title-images)
 
   # Installation:
-  ewfwef
+  Node Modules, JSON and Inquirer packages.
 
   # Usage:
-  wef
+  Using the command line, answer the questions when prompted and the readme is generated.
 
   # License:
  ![license](https://img.shields.io/badge/license-MIT-blue.svg)
  
   # Contributors:
-  wef
+  Teresa Heidt
 
   # Tests:
-  wegwg
+  No tests at this time.
 
   # Questions:
-  wegwegf
+  [Github](https://github.com/teresaheidt)
 
   # Images:
-  wefgwf
+  ![screenshot](screenshot.png)
 
   
